@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olelaoji.github.io/Vcd/sitemap_index.txt
+Sitemap: https://olelaoji.github.io/XMF/sitemap_index.txt
+Sitemap: https://olelaoji.github.io/gsT/sitemap_index.txt
+Sitemap: https://olelaoji.github.io/viw/sitemap_index.txt
